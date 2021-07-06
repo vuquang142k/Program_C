@@ -1,0 +1,5 @@
+Result: 
+i 1
+love 1
+you 1
+too 1

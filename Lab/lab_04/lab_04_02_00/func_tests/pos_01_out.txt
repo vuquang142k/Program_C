@@ -1,0 +1,5 @@
+Result: 
+ab 2    
+cd 1    
+be 1
+ad 1

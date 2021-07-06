@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "math.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "myfuncstr.h": "c",
+        "ctype.h": "c"
+    }
+}
